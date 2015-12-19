@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="../sample/iOS/CardFlight.iOS.Sample.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/libCardFlightAttacheLibrary.linkwith.cs">
+    <Files>
+      <File FileName="iOS/libCardFlightLibrary.linkwith.cs" Line="5" Column="124" />
+      <File FileName="iOS/libCardFlightAttacheLibrary.linkwith.cs" Line="5" Column="1" />
+      <File FileName="iOS/ApiDefinition.cs" Line="515" Column="2" />
+      <File FileName="iOS/StructsAndEnums.cs" Line="48" Column="2" />
+      <File FileName="../sample/iOS/AppDelegate.cs" Line="31" Column="40" />
+      <File FileName="../sample/iOS/CFTMainViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adlair/Documents/Projects/Xamarin/Customers/CardFlight/sample/iOS/CFTMainViewController.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

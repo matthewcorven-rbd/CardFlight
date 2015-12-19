@@ -1,0 +1,5 @@
+/Users/vmmac/Source/CardFlight/binding/iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vmmac/Source/CardFlight/binding/iOS/bin/Debug/CardFlight.dll.mdb
+/Users/vmmac/Source/CardFlight/binding/iOS/bin/Debug/CardFlight.dll
+/Users/vmmac/Source/CardFlight/binding/iOS/obj/Debug/CardFlight.dll
+/Users/vmmac/Source/CardFlight/binding/iOS/obj/Debug/CardFlight.dll.mdb

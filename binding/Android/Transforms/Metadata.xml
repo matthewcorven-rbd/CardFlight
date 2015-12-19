@@ -1,0 +1,21 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->	
+ 	<attr path="//package[@name='com.getcardflight.interfaces']/interface[@name='CardFlightDeviceHandler']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.models']/class[@name='Charge']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.models']/class[@name='Card']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.models']/class[@name='CardFlightUniMag']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.views.deprecated']/class[@name='CvvNumberTextView']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.views.deprecated']/class[@name='CardNumberTextView']" name="extends">java.lang.Object</attr>
+	<attr path="//package[@name='com.getcardflight.views.deprecated']/class[@name='ExpiryDateTextView']" name="extends">java.lang.Object</attr>
+	<attr path="/api/package[@name='com.getcardflight.interfaces']" name="managedName">Getcardflight.Interfaces</attr>
+	<attr path="/api/package[@name='com.getcardflight.models']" name="managedName">Getcardflight.Models</attr>
+	<attr path="/api/package[@name='com.getcardflight.util']" name="managedName">Getcardflight.Util</attr>
+	<attr path="/api/package[@name='com.getcardflight.views']" name="managedName">Getcardflight.Views</attr>
+	<attr path="/api/package[@name='com.getcardflight.views.deprecated']" name="managedName">Getcardflight.Views.Deprecated</attr>
+</metadata>

@@ -1,0 +1,28 @@
+# view res/layout/payment_view.xml #generated:45
+# view sw600dp-v13/res/layout-sw600dp-v13/payment_view.xml #generated:44
+-keep class com.getcardflight.views.CVVEditText { <init>(...); }
+
+# view res/layout/payment_view.xml #generated:13
+# view sw600dp-v13/res/layout-sw600dp-v13/payment_view.xml #generated:13
+-keep class com.getcardflight.views.CardIcon { <init>(...); }
+
+# view res/layout/card_holder.xml #generated:4
+# view sw600dp-v13/res/layout-sw600dp-v13/card_holder.xml #generated:4
+-keep class com.getcardflight.views.CardNumEditText { <init>(...); }
+
+# view res/layout/payment_view.xml #generated:4
+# view sw600dp-v13/res/layout-sw600dp-v13/payment_view.xml #generated:4
+-keep class com.getcardflight.views.CardNumHolder { <init>(...); }
+
+# view res/layout/payment_view.xml #generated:32
+# view sw600dp-v13/res/layout-sw600dp-v13/payment_view.xml #generated:32
+-keep class com.getcardflight.views.ExpirationEditText { <init>(...); }
+
+# view res/layout/card_holder.xml #generated:14
+# view sw600dp-v13/res/layout-sw600dp-v13/card_holder.xml #generated:14
+-keep class com.getcardflight.views.InterceptEditText { <init>(...); }
+
+# view res/layout/payment_view.xml #generated:59
+# view sw600dp-v13/res/layout-sw600dp-v13/payment_view.xml #generated:58
+-keep class com.getcardflight.views.ZipCodeEditText { <init>(...); }
+
